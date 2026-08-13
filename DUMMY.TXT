@@ -1,1 +1,2 @@
 This is a dummy file
+and this is also a changes file
